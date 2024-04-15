@@ -1,0 +1,24 @@
+@import '../../GlobalStyles/GlobalStyles.scss';
+
+.wrapper {
+    padding-right: 15px;
+
+    @include tablet {
+        margin-bottom: 46px;
+    }
+}
+
+.header {
+    font-size: 26px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+.desc {
+    font-size: 15px;
+    margin-bottom: 24px;
+}
+
+.link {
+    display: flex;
+}

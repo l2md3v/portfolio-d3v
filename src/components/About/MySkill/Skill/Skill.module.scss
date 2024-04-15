@@ -1,0 +1,37 @@
+@import '../../../GlobalStyles/GlobalStyles.scss';
+
+.wrapper {
+    text-align: center;
+    margin-bottom: 32px;
+    width: calc(100% / 4);
+
+    @include mobile {
+        width: 50%;
+    }
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: var(--toggle-color);
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    margin-bottom: 16px;
+    transition: all 0.5s ease;
+
+    &:hover {
+        transform: scale(1.1);
+    }
+}
+
+.logo {
+    width: 50%;
+}
+
+.title {
+    text-transform: uppercase;
+    font-weight: bold;
+}

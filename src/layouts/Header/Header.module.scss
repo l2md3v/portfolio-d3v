@@ -1,0 +1,36 @@
+@import '../../components/GlobalStyles/GlobalStyles.scss';
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 75px 0;
+    position: relative;
+}
+.component {
+    font-size: 56px;
+    font-weight: 900;
+    text-transform: uppercase;
+
+    @include mobile {
+        font-size: 35px;
+    }
+}
+
+.title {
+    color: var(--main-color);
+}
+
+.sub_component {
+    color: var(--header-bg);
+    position: absolute;
+    font-size: 110px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    line-height: 0.7;
+
+    @include mobile {
+        font-size: 65px;
+    }
+}
