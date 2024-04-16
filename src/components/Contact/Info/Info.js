@@ -19,9 +19,9 @@ function Info() {
             <ContactItem icon={faEnvelopeOpen} title={'Email'} value={'contact.l2md3v@gmail.com'} />
             <ContactItem icon={faPhone} title={'Phone'} value={'03260xxxx1'} />
             <div className={cx('link')}>
-                <ContactLink icon={faFacebook} link={'https://www.facebook.com/LamDeveloper'} />
+                <ContactLink icon={faFacebook} link={'https://www.facebook.com/l2md3v'} />
                 <ContactLink icon={faInstagram} link={'https://www.instagram.com/l2md3v/'} />
-                <ContactLink icon={faGithub} link={'https://github.com/kentjuno7z'} />
+                <ContactLink icon={faGithub} link={'https://github.com/l2md3v'} />
             </div>
         </div>
     );
