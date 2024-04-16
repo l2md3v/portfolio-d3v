@@ -22,7 +22,7 @@ function Personal() {
                             <Details title={'Nationality'} value={'VietNamese'} />
                             <Details title={'Address'} value={'Ho Chi Minh City'} />
                             <Details title={'Phone'} value={'0763xxx861'} />
-                            <Details title={'Facebook'} value={'facebook.com/LamDeveloper'} />
+                            <Details title={'Facebook'} value={'facebook.com/l2md3v'} />
                             <Details title={'Language'} value={'Vietnamese, English'} />
                             <Details title={'Email'} value={'contact.l2md3v@gmail.com'} />
                         </div>
