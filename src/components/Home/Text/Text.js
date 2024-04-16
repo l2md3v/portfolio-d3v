@@ -16,7 +16,7 @@ function Text() {
             </h1>
 
             <span className={cx('desc')}>
-                Hello mọi người! Mình là LÂM, đang là sinh viên năm 3 trường Đại học Chính quý tại Sài Gòn. Tháng
+                Hello mọi người! Mình là LÂM, đang là đã tốt nghiệp trường Đại học Chính quý tại Sài Gòn. Tháng
                 3/2022, tình cờ biết đến cộng đồng F8 Fullstack của anh Sơn, mình đã hoàn thành các khóa học HTML, CSS,
                 ReactJS và có được một số dự án cá nhân. Trải qua nhiều cay đắng, thật sự cảm ơn anh Sơn cũng như cộng
                 đồng anh em đóng góp đã truyền động lực cho mình suốt thời gian qua giúp mình không bỏ cuộc.
