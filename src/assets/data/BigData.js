@@ -66,7 +66,7 @@ const MyProject = [
         role: 'FrontEnd',
         backend: 'null',
         lib: 'Astro',
-        demo: 'https://lamdev.is-a.dev/',
+        demo: 'https://github.com/l2md3v/card-profile-discord',
     },
     {
         id: 4,
