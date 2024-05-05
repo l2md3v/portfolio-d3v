@@ -36,7 +36,7 @@ const MyProject = [
         lib: 'null',
         frontend: 'HTML, CSS, JS',
         backend: 'null',
-        demo: 'https://kentjuno7z.github.io/Web-Pho-Nguoi-Viet-Part2/phonguoiviet.html',
+        demo: 'https://github.com/l2md3v/Web-Pho-Nguoi-Viet-Part2',
     },
     {
         id: 2,
