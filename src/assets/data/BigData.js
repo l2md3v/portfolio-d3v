@@ -51,7 +51,7 @@ const MyProject = [
         lib: 'null',
         frontend: 'HTML, CSS, JS',
         backend: 'null',
-        demo: 'https://kentjuno7z.github.io/Demo-Search/',
+        demo: 'https://github.com/l2md3v/Demo-Search',
     },
     {
         id: 3,
